@@ -1,0 +1,67 @@
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
+#include<string.h>
+int main()
+{
+int a,b,c;
+char str;
+double d;
+float f1,f2;
+unsigned int us=5;
+long int l;
+printf("Enter the numbers you want to add:");
+scanf("%d %d",a,b);
+s = a+b;
+s = s+1;
+printf("The sum of %d and %d is: %d",a,b,c);
+for(i=0;i<200;i=i+2)
+{
+printf("\n");
+for(j=5;j>=0;j=j-1)
+{
+k = i+j;
+printf("%d",k);
+printf("%s%s",u,v);
+if(i!=j &&  i>j)
+{
+printf("No output.");
+continue;
+}
+else if(i==j || i<j)
+{
+printf("Successful else if to elif.");
+break;
+}
+else
+{
+scanf("%s %lf",str,value);
+printf("Inside else");
+if(n>r)
+{
+printf("the greater of the two %d and %d is : %d",n,r,n);
+s = n;
+}
+else
+{
+printf("the greater of the two %d and %d is : %d",n,r,r);
+s = r;
+}
+}
+}
+total = total+s;
+if(total<limit)
+{
+printf("your total is less than limit");
+}
+}
+sizeof(a);
+switch(b)
+while(i>j)
+{
+printf("Inside while loop.");
+j++;
+i--;
+}
+return(0);
+}
